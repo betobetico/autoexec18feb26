@@ -224,7 +224,8 @@ Si todo está correcto, al escribir `empezar` deberías ver:
 
 ## ¿Necesitas Ayuda?
 
-- 📧 Email: contacto@rebundle.ai
+- 📧 Alberto Benbunan: a@rebundle.ai
+- 📧 Doron Vainrub: dv@rebundle.ai
 
 ---
 
